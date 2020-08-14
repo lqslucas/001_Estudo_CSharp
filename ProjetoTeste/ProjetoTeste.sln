@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastros", "Cadastros\Cadastros.csproj", "{5DBBA35E-0792-4CF4-AE3B-7EBBC3C0792E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda", "Agenda\Agenda.csproj", "{889B995B-09E4-48E9-AA33-631A78DD0F3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBBA35E-0792-4CF4-AE3B-7EBBC3C0792E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBBA35E-0792-4CF4-AE3B-7EBBC3C0792E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBBA35E-0792-4CF4-AE3B-7EBBC3C0792E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBBA35E-0792-4CF4-AE3B-7EBBC3C0792E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889B995B-09E4-48E9-AA33-631A78DD0F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889B995B-09E4-48E9-AA33-631A78DD0F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889B995B-09E4-48E9-AA33-631A78DD0F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889B995B-09E4-48E9-AA33-631A78DD0F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6408A248-A867-46BB-89F1-2BB09458659A}
+	EndGlobalSection
+EndGlobal
